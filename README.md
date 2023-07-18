@@ -1,2 +1,2 @@
 # Amazon-deforestation
-Dataset two big to handle. Constantly getting errors about memory allocation being exceeded on Kaggle.
+Dataset too big to handle. Constantly getting errors about memory allocation being exceeded on Kaggle.
